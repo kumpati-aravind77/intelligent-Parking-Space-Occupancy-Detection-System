@@ -1,5 +1,4 @@
 # intelligent-Parking-Space-Occupancy-Detection-System
-# Intelligent Parking Space Occupancy Detection System
 
 ## Overview
 This project implements a **robust parking space occupancy detection system** using classical computer vision with **temporal state modeling**.  
